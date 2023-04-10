@@ -1,1 +1,2 @@
 Novi dokument koji sam dodao u local repozitorijum
+Izmena na remote direktorijumu
